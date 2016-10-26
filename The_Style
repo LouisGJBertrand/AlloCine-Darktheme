@@ -1,0 +1,127 @@
+div.titlebar.titlebar-page {
+    color: #2ecc71;
+}
+
+p.header-search-extralinks {
+    color: #fff;
+}
+
+p.header-search-extralinks a {
+    color: #fff;
+}
+
+a.item {
+    color: #f1c40f;
+}
+
+a.search-theater-link.blue-link {
+    color: #fff;
+}
+
+a.list-item-link {
+    color: #fff;
+}
+
+a.xXx.list-entity-item-link {
+    color: #f1c40f;
+}
+
+a.list-entity-item-link {
+    color: #f1c40f;
+}
+
+a.xXx.end-section-link {
+    color: #f39c12;
+}
+
+a.meta-title.meta-title-link {
+    color: #f1c40f;
+}
+
+div.meta-description.light {
+    color: #f1c40f;
+}
+
+a.xXx.meta-title-link {
+    color: #fff;
+}
+
+div.subnav {
+    background: #15151E;
+}
+
+div.main-content {
+    background: #24242A;
+}
+
+a.xXx.nav-link.mrub {
+    color: #f1c40f;
+    background: #24242A;
+}
+
+a.xXx.nav-link {
+    color: #f1c40f;
+}
+
+div.subnav ul {
+    background: #24242A;
+}
+
+#header__nav {
+    background: #24242A;
+}
+
+div.search-theater.cf.js-search-theater-push {
+    background: #484854;
+}
+
+div.search-theater-addon {
+    background: #484854;
+    color: #fff;
+}
+
+div.main-wrapper {
+    background: #15151E;
+}
+
+footer.main-footer {
+    background: #15151E;
+}
+
+div.player-footer-title.titlebar-title-lg.titlebar-top-border.titlebar-page {
+    color: #FFFF00;
+}
+
+a.xXx.titlebar-link {
+    color: #FFFF00;
+}
+
+a.xXx {
+    color: #FFFF00;
+}
+
+a.xXx.movie-product-item.light {
+    color: #B5B500;
+}
+
+a.item-content {
+    color: #FFFF00;
+}
+
+span.meta-infos-time-slot {
+    color: #FFFF00;
+}
+
+a.player-footer-link.title-inter {
+    color: #FFFF00;
+}
+
+div.titlebar-title.titlebar-title-xl {
+    color: #FFFF00;
+}
+
+header.main-header {
+    background: #24242A;
+    color: #3498db;
+}
+
