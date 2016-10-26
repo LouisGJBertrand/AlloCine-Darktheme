@@ -80,10 +80,6 @@ div.search-theater-addon {
     color: #fff;
 }
 
-div.main-wrapper {
-    background: #15151E;
-}
-
 footer.main-footer {
     background: #15151E;
 }
@@ -123,5 +119,22 @@ div.titlebar-title.titlebar-title-xl {
 header.main-header {
     background: #24242A;
     color: #3498db;
+}
+
+a.nav-link.mrub {
+    color: #f1c40f;
+}
+
+a.nav-link {
+    color: #f1c40f;
+}
+
+div.main-wrapper {
+    background: #15151E;
+}
+
+div.ephemeride.hidden-md {
+    background: #15151E;
+    color: #fff;
 }
 
